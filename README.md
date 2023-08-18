@@ -28,4 +28,4 @@ This project demonstrates web scraping and XML parsing using Beautiful Soup in P
 - Python Requests: https://docs.python-requests.org/en/latest/
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to use, modify, and distribute the code as long as you provide appropriate attribution.
